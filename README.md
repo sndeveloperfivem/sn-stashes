@@ -22,3 +22,4 @@ Features
 
 Preview: https://www.youtube.com/watch?v=3C2QSGPXt4U
 
+<img width="1337" height="715" alt="managestashescreator" src="https://github.com/user-attachments/assets/d4c7246f-d149-4b86-9de0-e7a2bfcc1e24" />
